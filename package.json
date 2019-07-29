@@ -1,0 +1,16 @@
+{
+  "name": "placesapi",
+  "version": "0.0.1",
+  "description": "service that returns geographic information about places",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geolocation",
+    "places",
+    "geographic"
+  ],
+  "author": "Cally Nnamani",
+  "license": "ISC"
+}
